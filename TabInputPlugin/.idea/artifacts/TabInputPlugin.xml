@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TabInputPlugin">
+    <output-path>$PROJECT_DIR$/PluginTestServer/plugins</output-path>
+    <root id="archive" name="TabInputPlugin.jar">
+      <element id="module-output" name="TabInputPlugin" />
+    </root>
+  </artifact>
+</component>

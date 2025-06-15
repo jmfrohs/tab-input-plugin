@@ -1,0 +1,42 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-11 19:02:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-11-11 19:02:55 +0100",
+      "minecraft:ocean": "2024-12-01 15:06:55 +0100",
+      "minecraft:river": "2024-12-01 15:14:11 +0100",
+      "minecraft:plains": "2024-11-12 21:21:48 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-25 19:02:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-25 19:02:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-25 19:02:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-11-26 21:55:53 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

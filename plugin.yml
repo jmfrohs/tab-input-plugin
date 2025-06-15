@@ -1,8 +1,0 @@
-name: TabInputPlugin
-version: '${project.version}'
-main: de.jmfrohs.tabinputplugin.TabInputPlugin
-api-version: '1.21'
-commands:
-  tag:
-    description: Handle player tags
-    usage: /tag <add|remove|temp> ...
